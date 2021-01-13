@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.go": "go",
+        "*.old": "go",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "iterator": "cpp"
+    }
+}
